@@ -1,0 +1,4 @@
+one/digitalinnovation/usuario/SuperUsuario.java
+ one.digitalinnovation.usuario.SuperUsuario
+one/digitalinnovation/usuario/ProgramaDoSuperUsuario.java
+ one.digitalinnovation.usuario.ProgramaDoSuperUsuario
