@@ -17,7 +17,7 @@ BootCamp e treinamento da digitalinnovation.one com a empresa Code Anywhere, fei
   * S.O.L.I.D
   * Fomatação com Datas
   * Tratamento de Exeções
-
+  * Listas
 
 
 
