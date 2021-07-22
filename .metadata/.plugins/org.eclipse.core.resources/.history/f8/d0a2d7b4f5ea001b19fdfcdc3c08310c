@@ -1,0 +1,11 @@
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class ConectionUrl {
+
+	public static void main(String[] args) throws MalformedURLException {
+		URL url = new URL ("http://www.ifsul.edu.br");
+		
+	}
+
+}

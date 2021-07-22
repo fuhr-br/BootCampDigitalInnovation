@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\DiO\digital-innovation-one-master\digital-innovation-one-master\.metadata\.plugins\org.eclipse.jdt.core
+1528203484.index
+4156284557.index
