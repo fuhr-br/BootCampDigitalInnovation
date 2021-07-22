@@ -8,8 +8,8 @@ BootCamp e treinamento da digitalinnovation.one com a empresa Code Anywhere, fei
   * Chaves estranjeiras e primitivas
   * normalização
   * Comandos join e Group by
-* Desenvolvimento Básico em Java
-  * Caracterésticas da Linguagem
+* Desenvolvimento em Java
+  * Caracterésticas da Linguagem 
   * Lógica de programação em java
   * Arrays
   * Debug código   
@@ -18,6 +18,11 @@ BootCamp e treinamento da digitalinnovation.one com a empresa Code Anywhere, fei
   * Fomatação com Datas
   * Tratamento de Exeções
   * Listas
+  * Modularização 
+  * Interfaces Funcionais e Lambdas
+  
+  
+  
 
 
 
